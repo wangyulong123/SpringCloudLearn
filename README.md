@@ -3,9 +3,11 @@
 本项目内容为Spring Cloud教程程序样例。
 
 作者博客：http://blog.didispace.com
-GitHub：https://github.com/dyc87112
 
-- Spring Cloud系统博文：http://blog.didispace.com/tag/spring-cloud/
+OsChina：http://git.oschina.net/didispace
+
+- Spring Cloud系列博文：http://blog.didispace.com/tag/spring-cloud/
+- Spring Cloud中文社区：http://bbs.springcloud.com.cn/
 
 如您觉得该项目对您有用，欢迎点击右上方的**Star**按钮，给予支持！！
 
