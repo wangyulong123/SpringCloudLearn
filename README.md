@@ -14,7 +14,7 @@
 
 ##样例列表
 
-### Spring Cloud构建微服务架构
+### 《Spring Cloud构建微服务架构》系列博文示例
 
 - chapter1-1-1：[Spring Cloud构建微服务架构（一）服务注册与发现](http://blog.didispace.com/springcloud1/)
 - chapter1-1-2：[Spring Cloud构建微服务架构（二）服务消费者](http://blog.didispace.com/springcloud2/)
