@@ -9,7 +9,7 @@
 
 如您觉得该项目对您有用，欢迎点击右上方的**Star**按钮，给予支持！！
 
-如有问题，可联系：didi@potatomato.club
+如疑问或分享内容，欢迎来[Spring Cloud中文社区](http://bbs.springcloud.com.cn/)发帖交流。
 
 
 ##样例列表
@@ -27,7 +27,9 @@
 
 从9月份除了写博文之后，开始编著Spring Cloud的应用书籍，内容结构会更加系统化，对一些细节内容会做更多的说明与分析。
 
-spring_cloud_in_action目录下为《Spring Cloud实战》的配套示例，暂定计划16年底-17年初完成，敬请期待 ^_^
+spring_cloud_in_action目录下为《Spring Cloud实战》的配套示例，暂定计划16年底-17年初完成，敬请期待！
+
+若您对《Spring Cloud实战》内容上有任何建议，也可诚意提出！
 
 ## 其他教程
 
