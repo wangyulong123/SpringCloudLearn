@@ -9,6 +9,7 @@
     <version>1.0</version>
 
     <modules>
+        <module>spring-boot-hello</module>
         <module>eureka-server</module>
         <module>eureka-server-ha</module>
     </modules>
