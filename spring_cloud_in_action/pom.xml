@@ -12,6 +12,7 @@
         <module>spring-boot-hello</module>
         <module>eureka-server</module>
         <module>eureka-server-ha</module>
+        <module>hello-service</module>
     </modules>
 
 </project>
