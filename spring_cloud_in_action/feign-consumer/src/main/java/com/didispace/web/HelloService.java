@@ -3,7 +3,7 @@ package com.didispace.web;
 import org.springframework.cloud.netflix.feign.FeignClient;
 import org.springframework.web.bind.annotation.*;
 
-@FeignClient("HELLO-SERVICE")
+@FeignClient(name="HELLO-SERVICE", fallback = HelloServiceFallback.class)
 public interface HelloService {
 
     @RequestMapping("/hello")
