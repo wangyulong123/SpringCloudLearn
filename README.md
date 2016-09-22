@@ -23,6 +23,10 @@
 - chapter1-1-5：[Spring Cloud构建微服务架构（五）服务网关](http://blog.didispace.com/springcloud5/)
 - chapter1-1-6：[Spring Cloud构建微服务架构（六）高可用服务注册中心](http://blog.didispace.com/springcloud6/)
 
+### 《Spring Cloud源码分析》系列博文
+
+- [Spring Cloud源码分析（一）Eureka](http://blog.didispace.com/springcloud-sourcecode-eureka/)
+
 ### 《Spring Cloud实战》配套示例
 
 从9月份除了写博文之后，开始编著Spring Cloud的应用书籍，内容结构会更加系统化，对一些细节内容会做更多的说明与分析。
