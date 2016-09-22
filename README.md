@@ -6,6 +6,7 @@
 - Spring Cloud系列博文：http://blog.didispace.com/tag/spring-cloud/
 - Spring Cloud中文社区：http://bbs.springcloud.com.cn/
 - GitHub：https://github.com/dyc87112/SpringCloud-Learning
+- OsChina：http://git.oschina.net/didispace
 
 如您觉得该项目对您有用，欢迎点击右上方的**Star**按钮，给予支持！！
 
