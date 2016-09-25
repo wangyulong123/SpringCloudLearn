@@ -26,6 +26,9 @@
 
         <module>config-server-eureka</module>
         <module>config-client-eureka</module>
+
+        <module>rabbitmq-hello</module>
+
     </modules>
 
 </project>
