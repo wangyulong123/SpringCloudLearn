@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.didispace</groupId>
-	<artifactId>config-client-eureka</artifactId>
+	<artifactId>config-client-eureka-rabbit</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>config-client-eureka</name>
+	<name>config-client-eureka-rabbit</name>
 	<description>Spring Cloud project</description>
 
 	<parent>
