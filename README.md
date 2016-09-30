@@ -3,7 +3,7 @@
 本项目内容为Spring Cloud教程的程序样例。
 
 - 作者博客：http://blog.didispace.com
-- Spring Cloud系列博文：http://blog.didispace.com/tag/spring-cloud/
+- Spring Cloud系列博文：http://blog.didispace.com/categories/Spring-Cloud/
 - Spring Cloud中文社区：http://bbs.springcloud.com.cn/
 - GitHub：https://github.com/dyc87112/SpringCloud-Learning
 - OsChina：http://git.oschina.net/didispace
@@ -40,7 +40,7 @@ spring_cloud_in_action目录下为《Spring Cloud实战》的配套示例，暂�
 
 ## 其他教程
 
-- Spring Boot系列博文：http://blog.didispace.com/tag/spring-boot/
+- Spring Boot系列博文：http://blog.didispace.com/categories/Spring-Boot/
 - Spring Boot样例汇总：http://git.oschina.net/didispace/SpringBoot-Learning
 
 ## 打赏支持
