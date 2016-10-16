@@ -36,6 +36,7 @@
         <module>rabbitmq-hello</module>
 
         <module>hystrix-dashboard</module>
+        <module>turbine</module>
 
     </modules>
 
