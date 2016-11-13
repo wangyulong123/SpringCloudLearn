@@ -11,7 +11,7 @@ import org.springframework.messaging.MessageChannel;
  * @create 2016/11/12.
  * @blog http://blog.didispace.com
  */
-public interface SinkOut {
+public interface SinkSender {
 
     @Output(Sink.INPUT)
     MessageChannel output();
