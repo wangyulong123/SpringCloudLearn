@@ -1,11 +1,13 @@
 package com.didispace;
 
+import java.io.Serializable;
+
 /**
  * @author 翟永超
  * @create 2016/11/13.
  * @blog http://blog.didispace.com
  */
-public class User {
+public class User implements Serializable {
 
     private String name;
     private Integer age;
