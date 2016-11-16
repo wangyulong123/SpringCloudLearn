@@ -40,6 +40,7 @@
         <module>turbine-amqp</module>
 
         <module>stream-hello</module>
+        <module>stream-hello-2</module>
     </modules>
 
 </project>
