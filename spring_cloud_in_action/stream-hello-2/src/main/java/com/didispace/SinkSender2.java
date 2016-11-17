@@ -19,7 +19,7 @@ import org.springframework.messaging.support.GenericMessage;
  * @create 2016/11/8.
  * @blog http://blog.didispace.com
  */
-@EnableBinding(value = {SinkSender2.SinkOutput.class})
+//@EnableBinding(value = {SinkSender2.SinkOutput.class})
 public class SinkSender2 {
 
     private static Logger logger = LoggerFactory.getLogger(HelloApplication.class);

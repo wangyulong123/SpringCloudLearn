@@ -11,7 +11,7 @@ import org.springframework.cloud.stream.messaging.Sink;
  * @create 2016/11/8.
  * @blog http://blog.didispace.com
  */
-@EnableBinding(value = {Sink.class})
+//@EnableBinding(value = {Sink.class})
 public class SinkReceiver2 {
 
     private static Logger logger = LoggerFactory.getLogger(HelloApplication.class);

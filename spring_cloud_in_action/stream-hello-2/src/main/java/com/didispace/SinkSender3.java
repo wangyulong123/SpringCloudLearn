@@ -15,7 +15,7 @@ import org.springframework.messaging.support.GenericMessage;
  * @create 2016/11/8.
  * @blog http://blog.didispace.com
  */
-@EnableBinding(value = {Processor.class})
+//@EnableBinding(value = {Processor.class})
 public class SinkSender3 {
 
     private static Logger logger = LoggerFactory.getLogger(HelloApplication.class);
