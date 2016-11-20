@@ -13,7 +13,7 @@ import org.springframework.context.annotation.Bean;
  * @create 2016/11/8.
  * @blog http://blog.didispace.com
  */
-@EnableRxJavaProcessor
+//@EnableRxJavaProcessor
 //@EnableBinding(value = {Processor.class})
 public class App1 {
 
