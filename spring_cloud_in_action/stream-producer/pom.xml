@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.didispace</groupId>
-	<artifactId>stream-hello-2</artifactId>
+	<artifactId>stream-producer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>stream-hello-2</name>
+	<name>stream-producer</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
