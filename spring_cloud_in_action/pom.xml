@@ -41,6 +41,13 @@
 
         <module>stream-consumer</module>
         <module>stream-producer</module>
+
+
+        <module>trace-1</module>
+        <module>trace-2</module>
+        <!--<module>trace-3</module>-->
+        <!--<module>trace-4</module>-->
+        <module>zipkin-server</module>
     </modules>
 
 </project>
