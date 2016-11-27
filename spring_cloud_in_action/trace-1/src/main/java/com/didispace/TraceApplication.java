@@ -18,6 +18,11 @@ public class TraceApplication {
 
 	private final Logger logger = Logger.getLogger(getClass());
 
+//	@Bean
+//	public AlwaysSampler defaultSampler() {
+//		return new AlwaysSampler();
+//	}
+
 	@Bean
 	@LoadBalanced
 	RestTemplate restTemplate() {
