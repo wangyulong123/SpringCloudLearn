@@ -12,6 +12,9 @@
 
 如疑问或分享内容，欢迎来[Spring Cloud中文社区](http://bbs.springcloud.com.cn/)发帖交流。
 
+## 欢迎关注我的公众号
+
+![程序猿DD的公众号](http://git.oschina.net/uploads/images/2016/1221/000537_56c3b2f4_437188.jpeg "程序猿DD的公众号")
 
 ##样例列表
 
