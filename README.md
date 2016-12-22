@@ -43,6 +43,11 @@ spring_cloud_in_action目录下为《Spring Cloud实战》的配套示例，暂�
 
 若您对《Spring Cloud实战》内容上有任何建议，也可诚意提出！
 
+### 其他文章
+
+- [为Spring Cloud Ribbon配置请求重试（Camden.SR2+）](http://blog.didispace.com/spring-cloud-ribbon-failed-retry/)
+
+
 ## 其他教程
 
 - Spring Boot系列博文：http://blog.didispace.com/categories/Spring-Boot/
