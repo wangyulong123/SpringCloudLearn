@@ -39,6 +39,7 @@
 ### 其他文章
 
 - [为Spring Cloud Ribbon配置请求重试（Camden.SR2+）](http://blog.didispace.com/spring-cloud-ribbon-failed-retry/)
+- [Consul注销实例时候的问题](http://blog.didispace.com/consul-deregister/)
 
 ### 《Spring Cloud实战》配套示例
 
