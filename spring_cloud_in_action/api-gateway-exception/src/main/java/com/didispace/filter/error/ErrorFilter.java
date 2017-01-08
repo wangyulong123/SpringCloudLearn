@@ -1,4 +1,4 @@
-package com.didispace.filter;
+package com.didispace.filter.error;
 
 import com.netflix.zuul.ZuulFilter;
 import com.netflix.zuul.context.RequestContext;
@@ -10,8 +10,9 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  * 捕获为处理的异常统一做一些处理，让`SendErrorFilter`可以正确的返回异常信息
+ * 当是`post`过滤器抛出的话，错误信息会让`ErrorExtFilter`返回异常信息
  */
-//@Component
+@Component
 public class ErrorFilter extends ZuulFilter {
 
     Logger log = LoggerFactory.getLogger(ErrorFilter.class);
@@ -23,7 +24,7 @@ public class ErrorFilter extends ZuulFilter {
 
     @Override
     public int filterOrder() {
-        return 10;
+        return 20;
     }
 
     @Override
