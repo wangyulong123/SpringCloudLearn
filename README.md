@@ -5,6 +5,7 @@
 - 作者博客：http://blog.didispace.com
 - Spring Cloud系列博文：http://blog.didispace.com/categories/Spring-Cloud/
 - Spring Cloud中文社区：http://bbs.springcloud.com.cn/
+- 我的知识问答平台（可以来这里发表您的想法或提出您的问题）：http://qa.didispace.com
 - GitHub：https://github.com/dyc87112/SpringCloud-Learning
 - OsChina：http://git.oschina.net/didispace
 
@@ -62,9 +63,3 @@ spring_cloud_in_action目录下为《Spring Cloud实战》的配套示例，暂�
 
 - Spring Boot系列博文：http://blog.didispace.com/categories/Spring-Boot/
 - Spring Boot样例汇总：http://git.oschina.net/didispace/SpringBoot-Learning
-
-## 打赏支持
-
-<img src="http://git.oschina.net/uploads/images/2016/0717/085831_64f0a21e_437188.png" width="200px" height="200px;" /> <img src="http://git.oschina.net/uploads/images/2016/0717/085620_78f6b3cb_437188.png" width="200px" height="200px;" />
-
-
