@@ -11,7 +11,7 @@
 
 如您觉得该项目对您有用，欢迎点击右上方的**Star**按钮，给予支持！！
 
-如疑问或分享内容，欢迎来[Spring Cloud中文社区](http://bbs.springcloud.com.cn/)发帖交流。
+如疑问或分享内容，欢迎来[我的知识交流](http://qa.didispace.com/)发帖讨论。
 
 ## 我的新书
 
