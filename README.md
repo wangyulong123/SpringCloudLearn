@@ -1,4 +1,4 @@
-#SpringCloud-Learning
+#SpringCloud-Learning(Dalston版)
 
 本项目内容为Spring Cloud教程的程序样例。
 
@@ -52,16 +52,6 @@
 - [Consul注销实例时候的问题](http://blog.didispace.com/consul-deregister/)
 - [使用Spring Boot Actuator、Jolokia和Grafana实现准实时监控](http://blog.didispace.com/spring-boot-jolokia-grafana-monitor/)
 - [Netflix Zuul与Nginx的性能对比](http://blog.didispace.com/zuul-vs-nginx-performance/)
-
-### 《Spring Cloud实战》配套示例
-
-从9月份除了写博文之后，开始编著Spring Cloud的应用书籍，内容结构会更加系统化，对一些细节内容会做更多的说明与分析。
-
-spring_cloud_in_action目录下为《Spring Cloud实战》的配套示例，暂定计划16年底-17年初完成，敬请期待！
-
-若您对《Spring Cloud实战》内容上有任何建议，也可诚意提出！
-
-本书目录：http://blog.didispace.com/mybook-spring-cloud-in-action/
 
 ## 其他教程
 
